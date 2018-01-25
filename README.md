@@ -13,3 +13,5 @@ Program checks for correct user input:
 Download and install Python
 ## Start
 Run main.py, enter 5 IATA airports codes
+## Images
+
