@@ -14,4 +14,6 @@ Download and install Python
 ## Start
 Run main.py, enter 5 IATA airports codes
 ## Images
+![Screenshot1](Airports1.jpg)
 
+![Screenshot2](Airports2.jpg)
